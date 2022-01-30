@@ -32,9 +32,15 @@ Here are two of my projecs that doesn't have a public repository:
 
 ## GitHub
   
-[![gustavovs88](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavovs88&hide=html&layout=compact&theme=dark)](https://github.com/gustavovs88/)
+  
+| [![gustavovs88](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavovs88&hide=html&layout=compact&theme=dark)](https://github.com/gustavovs88/) | [![card](https://github-readme-stats.vercel.app/api?username=gustavovs88&theme=dark)](https://github.com/gustavovs88/) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 
-[![card](https://github-readme-stats.vercel.app/api?username=gustavovs88&theme=dark)](https://github.com/gustavovs88/)
+
+
+  
+
+
 
 ## Reach me:
   
