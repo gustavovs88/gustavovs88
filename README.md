@@ -10,7 +10,7 @@
 
 ## Stacks:
   
-My main stacks are ReactJS and Node.js.
+My main stacks and study focus are ReactJS and Node.js.
 
 I also have at least some knowledge with the following technologies:
 
@@ -19,24 +19,16 @@ Python, Django, php, JQuery, Docker, Typescript, MySQL, PostgreSQL, MongoDB
 
 ## Projects
 
-Here are some projects i've made that doesn't have a public repository:
+Here are two of my projecs that doesn't have a public repository:
 
 ***Sharkey Words***
 
-A keyword planner app for advertisers and content producers. Made with Django Framework.
 
-![](https://gustavovs88.github.io/images/sharkeywords.gif)
-
-***3d Ebook Cover Maker***
-
-A website made for lead prospecting and Adsense earnings. Made with HTML, CSS and Javascript.
-![](https://gustavovs88.github.io/images/resetei-capa-3d.gif)
+|     SharkeyWords - A keyword planner made with Django      | Gerador de Capa 3d - A 3D book cover maker build with HTML, CSS and Javascript |
+| :--------------------------------------------------------: | :----------------------------------------------------------: |
+| ![](https://gustavovs88.github.io/images/sharkeywords-min.gif) | ![](https://gustavovs88.github.io/images/resetei-capa-3d.gif) |
 
 
-***Different Letters***
-
-A website for Adsense earnings. It allows user to generate text using creative fonts. Build with HTML, CSS and Javascript.
-![](https://gustavovs88.github.io/images/letras-diferentes.gif)
 
 
 ## GitHub
@@ -48,6 +40,7 @@ A website for Adsense earnings. It allows user to generate text using creative f
 ## Reach me:
   
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/gustavo-veloso-da-silveira/)
+
 :email: gustavovs88@gmail.com
   
 <!---
