@@ -21,10 +21,9 @@ Python, Django, php, JQuery, Docker, Typescript, MySQL, PostgreSQL, MongoDB
 
 Here are two of my projecs that doesn't have a public repository:
 
-***Sharkey Words***
 
 
-|     SharkeyWords - A keyword planner made with Django      | Gerador de Capa 3d - A 3D book cover maker build with HTML, CSS and Javascript |
+|     ***SharkeyWords*** - A keyword planner made with Django      | ***Gerador de Capa 3d*** - A 3D book cover maker build with HTML, CSS and Javascript |
 | :--------------------------------------------------------: | :----------------------------------------------------------: |
 | ![](https://gustavovs88.github.io/images/sharkeywords-min.gif) | ![](https://gustavovs88.github.io/images/resetei-capa-3d.gif) |
 
