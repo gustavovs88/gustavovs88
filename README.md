@@ -5,27 +5,41 @@
 
 
 𝘐'𝘮 𝘢 𝘔𝘢𝘵𝘦𝘳𝘪𝘢𝘭𝘴 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳 𝘱𝘢𝘴𝘴𝘪𝘰𝘯𝘦𝘥 𝘢𝘣𝘰𝘶𝘵 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘪𝘯𝘨. 𝘊𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘸𝘰𝘳𝘬𝘪𝘯𝘨 𝘧𝘰𝘳 𝘵𝘩𝘦 𝘖𝘪𝘭 & 𝘎𝘢𝘴 𝘪𝘯𝘥𝘶𝘴𝘵𝘳𝘺 𝘪𝘯 𝘉𝘳𝘢𝘻𝘪𝘭 𝘢𝘴 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳.
-𝘐'𝘷𝘦 𝘴𝘵𝘢𝘳𝘵𝘦𝘥 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘪𝘯𝘨 𝘪𝘯 2020 𝘢𝘯𝘥 𝘪'𝘮 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘧𝘰𝘤𝘶𝘴𝘪𝘯𝘨 𝘪𝘯 𝘱𝘺𝘵𝘩𝘰𝘯 𝘢𝘯𝘥 𝘥𝘫𝘢𝘯𝘨𝘰 𝘧𝘳𝘢𝘮𝘦𝘸𝘰𝘳𝘬.
+𝘐'𝘷𝘦 𝘴𝘵𝘢𝘳𝘵𝘦𝘥 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘪𝘯𝘨 𝘪𝘯 2020 𝘢𝘯𝘥 𝘯𝘦𝘷𝘦𝘳 𝘴𝘵𝘰𝘱𝘱𝘦𝘥.
 𝘐 𝘭𝘪𝘬𝘦 𝘵𝘰 𝘴𝘰𝘭𝘷𝘦 𝘱𝘳𝘰𝘣𝘭𝘦𝘮𝘴, 𝘭𝘦𝘢𝘳𝘯 𝘢𝘯𝘥 𝘵𝘦𝘢𝘤𝘩.
 
 ## Stacks:
   
-```diff
--👀HTML❺,CSS③ and J̾a̾v̾a̾s̾c̾r̾i̾p̾t̾
-  
-!🔙🔚 🐍Python and Django
-  
-+💽 SQL, Postgresql
-  
-#🖱️ VPS Django deploy
-```
- ## Goals:
- 
- ```diff
-+🚀 Improve my skills with Javascript and Python
-  
-!📖 Learn a Javascript Framework (React, Vue or Angular)
-```
+My main stacks are ReactJS and Node.js.
+
+I also have at least some knowledge with the following technologies:
+
+Python, Django, php, JQuery, Docker, Typescript, MySQL, PostgreSQL, MongoDB
+
+
+## Projects
+
+Here are some projects i've made that doesn't have a public repository:
+
+***Sharkey Words***
+
+A keyword planner app for advertisers and content producers. Made with Django Framework.
+
+![](https://gustavovs88.github.io/images/sharkeywords.gif)
+
+***3d Ebook Cover Maker***
+
+A website made for lead prospecting and Adsense earnings. Made with HTML, CSS and Javascript.
+![](https://gustavovs88.github.io/images/resetei-capa-3d.gif)
+
+
+***Different Letters***
+
+A website for Adsense earnings. It allows user to generate text using creative fonts. Build with HTML, CSS and Javascript.
+![](https://gustavovs88.github.io/images/letras-diferentes.gif)
+
+
+## GitHub
   
 [![gustavovs88](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavovs88&hide=html&layout=compact&theme=dark)](https://github.com/gustavovs88/)
 
@@ -34,6 +48,7 @@
 ## Reach me:
   
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/gustavo-veloso-da-silveira/)
+:email: gustavovs88@gmail.com
   
 <!---
 gustavovs88/gustavovs88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
